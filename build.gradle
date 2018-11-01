@@ -14,4 +14,5 @@ dependencies {
     testCompile group: 'org.scalatest', name: 'scalatest_2.12', version: '3.0.5'
 
     compile group: 'org.scala-lang', name: 'scala-library', version: '2.12.7'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.1.0.RELEASE'
 }
